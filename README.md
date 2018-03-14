@@ -1,0 +1,2 @@
+# singleton
+Pattern of design
