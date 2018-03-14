@@ -5,6 +5,9 @@ public class Singleton {
         // Do nothing
     }
 
+    /**
+     * Create instance only when is necessary
+     */
     private static synchronized void createInstanceIfNeeded() {
         if (singleton == null) {
             singleton = new Singleton();
@@ -13,13 +16,21 @@ public class Singleton {
     }
 
 
+    /**
+     * Return always the same instance
+     *
+     * @return An unique instance of Singleton
+     */
     public static Singleton getInstance() {
         createInstanceIfNeeded();
         System.out.println("Returning instance");
         return singleton;
     }
 
-    public void sayHello(){
+    /**
+     * Dummy method
+     */
+    public void sayHello() {
         System.out.println("Hello");
     }
 }
