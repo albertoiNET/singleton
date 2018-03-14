@@ -32,8 +32,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="18">
+              <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -327,7 +327,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521055068944</updated>
       <workItem from="1521055073381" duration="1785000" />
-      <workItem from="1521056871906" duration="2801000" />
+      <workItem from="1521056871906" duration="3422000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1521058139652</created>
@@ -350,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521058923203</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Try verified commits">
+      <created>1521059688303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521059688303</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4586000" />
+    <option name="totallyTimeSpent" value="5207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="25" width="1871" height="1055" extended-state="6" />
@@ -401,7 +408,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add javadoc" />
     <MESSAGE value="Some dumb stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some dumb stuff" />
+    <MESSAGE value="Try verified commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try verified commits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -488,8 +496,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="18">
+          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
           <folding />
         </state>
       </provider>
