@@ -1,4 +1,4 @@
-package net.albertoi.patterdesign;
+package net.albertoi.patterdesign.singleton;
 
 public class Singleton {
     private static Singleton singleton;
@@ -21,7 +21,7 @@ public class Singleton {
     /**
      * Return always the same instance
      *
-     * @return An unique instance of net.albertoi.patterdesign.Singleton
+     * @return An unique instance of Singleton
      */
     public static Singleton getInstance() {
         createInstanceIfNeeded();

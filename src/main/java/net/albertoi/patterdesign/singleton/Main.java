@@ -1,4 +1,4 @@
-package net.albertoi.patterdesign;
+package net.albertoi.patterdesign.singleton;
 
 class Main {
     public static void main(String[] args) {
