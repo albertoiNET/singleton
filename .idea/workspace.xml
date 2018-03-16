@@ -36,8 +36,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -364,7 +364,7 @@
       <workItem from="1521055073381" duration="1785000" />
       <workItem from="1521056871906" duration="5072000" />
       <workItem from="1521226617792" duration="1663000" />
-      <workItem from="1521231385681" duration="2266000" />
+      <workItem from="1521231385681" duration="2448000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1521058139652</created>
@@ -429,11 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521233666988</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Tuning travis-ci">
+      <created>1521233831995</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1521233831995</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10786000" />
+    <option name="totallyTimeSpent" value="10968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="358" y="27" width="1871" height="1055" extended-state="6" />
@@ -486,7 +493,8 @@
     <MESSAGE value="Image status" />
     <MESSAGE value="Move to package" />
     <MESSAGE value="Change package name and changes on travis-ci config file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change package name and changes on travis-ci config file" />
+    <MESSAGE value="Tuning travis-ci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuning travis-ci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -599,8 +607,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="86" />
           <folding />
         </state>
       </provider>
