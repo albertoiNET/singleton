@@ -1,4 +1,5 @@
 language: java
 jdk: oraclejdk8
+script: mvn clean install test
 after_success:
   - $JAVA_HOME/bin/java -classpath target/classes net.albertoi.patterdesign.singleton.Main

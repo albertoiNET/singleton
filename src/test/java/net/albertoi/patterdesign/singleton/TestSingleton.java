@@ -26,6 +26,5 @@ public class TestSingleton {
     @Test
     public void testGetInstanceUnique(){
         assertEquals(singletonMock,Singleton.getInstance());
-
     }
 }
